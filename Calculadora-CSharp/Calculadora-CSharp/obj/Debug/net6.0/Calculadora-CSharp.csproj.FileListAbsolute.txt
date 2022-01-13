@@ -1,0 +1,15 @@
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\Calculadora-CSharp.csproj.AssemblyReference.cache
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\Calculadora-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\Calculadora-CSharp.AssemblyInfoInputs.cache
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\Calculadora-CSharp.AssemblyInfo.cs
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\Calculadora-CSharp.csproj.CoreCompileInputs.cache
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\net6.0\Calculadora-CSharp.exe
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\net6.0\Calculadora-CSharp.deps.json
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\net6.0\Calculadora-CSharp.runtimeconfig.json
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\net6.0\Calculadora-CSharp.dll
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\net6.0\ref\Calculadora-CSharp.dll
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\bin\Debug\net6.0\Calculadora-CSharp.pdb
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\Calculadora-CSharp.dll
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\ref\Calculadora-CSharp.dll
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\Calculadora-CSharp.pdb
+C:\Workspace\Bootcamp-CSharp\Calculadora-CSharp\Calculadora-CSharp\obj\Debug\net6.0\Calculadora-CSharp.genruntimeconfig.cache
