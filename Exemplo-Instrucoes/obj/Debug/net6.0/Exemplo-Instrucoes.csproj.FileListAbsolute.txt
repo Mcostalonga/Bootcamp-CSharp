@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Instrucoes\bin\Debug\net6.0\Exemplo-Instrucoes.exe
+C:\Workspace\Exemplo-Instrucoes\bin\Debug\net6.0\Exemplo-Instrucoes.deps.json
+C:\Workspace\Exemplo-Instrucoes\bin\Debug\net6.0\Exemplo-Instrucoes.runtimeconfig.json
+C:\Workspace\Exemplo-Instrucoes\bin\Debug\net6.0\Exemplo-Instrucoes.dll
+C:\Workspace\Exemplo-Instrucoes\bin\Debug\net6.0\ref\Exemplo-Instrucoes.dll
+C:\Workspace\Exemplo-Instrucoes\bin\Debug\net6.0\Exemplo-Instrucoes.pdb
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\Exemplo-Instrucoes.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\Exemplo-Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\Exemplo-Instrucoes.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\Exemplo-Instrucoes.AssemblyInfo.cs
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\Exemplo-Instrucoes.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\Exemplo-Instrucoes.dll
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\ref\Exemplo-Instrucoes.dll
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\Exemplo-Instrucoes.pdb
+C:\Workspace\Exemplo-Instrucoes\obj\Debug\net6.0\Exemplo-Instrucoes.genruntimeconfig.cache
