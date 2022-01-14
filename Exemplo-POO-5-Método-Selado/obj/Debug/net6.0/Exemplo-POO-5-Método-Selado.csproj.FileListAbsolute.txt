@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-POO-5-Método-Selado\bin\Debug\net6.0\Exemplo-POO-5-Método-Selado.exe
+C:\Workspace\Exemplo-POO-5-Método-Selado\bin\Debug\net6.0\Exemplo-POO-5-Método-Selado.deps.json
+C:\Workspace\Exemplo-POO-5-Método-Selado\bin\Debug\net6.0\Exemplo-POO-5-Método-Selado.runtimeconfig.json
+C:\Workspace\Exemplo-POO-5-Método-Selado\bin\Debug\net6.0\Exemplo-POO-5-Método-Selado.dll
+C:\Workspace\Exemplo-POO-5-Método-Selado\bin\Debug\net6.0\ref\Exemplo-POO-5-Método-Selado.dll
+C:\Workspace\Exemplo-POO-5-Método-Selado\bin\Debug\net6.0\Exemplo-POO-5-Método-Selado.pdb
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\Exemplo-POO-5-Método-Selado.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\Exemplo-POO-5-Método-Selado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\Exemplo-POO-5-Método-Selado.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\Exemplo-POO-5-Método-Selado.AssemblyInfo.cs
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\Exemplo-POO-5-Método-Selado.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\Exemplo-POO-5-Método-Selado.dll
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\ref\Exemplo-POO-5-Método-Selado.dll
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\Exemplo-POO-5-Método-Selado.pdb
+C:\Workspace\Exemplo-POO-5-Método-Selado\obj\Debug\net6.0\Exemplo-POO-5-Método-Selado.genruntimeconfig.cache

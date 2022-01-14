@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-POO-6-Classe-Object\bin\Debug\net6.0\Exemplo-POO-6-Classe-Object.exe
+C:\Workspace\Exemplo-POO-6-Classe-Object\bin\Debug\net6.0\Exemplo-POO-6-Classe-Object.deps.json
+C:\Workspace\Exemplo-POO-6-Classe-Object\bin\Debug\net6.0\Exemplo-POO-6-Classe-Object.runtimeconfig.json
+C:\Workspace\Exemplo-POO-6-Classe-Object\bin\Debug\net6.0\Exemplo-POO-6-Classe-Object.dll
+C:\Workspace\Exemplo-POO-6-Classe-Object\bin\Debug\net6.0\ref\Exemplo-POO-6-Classe-Object.dll
+C:\Workspace\Exemplo-POO-6-Classe-Object\bin\Debug\net6.0\Exemplo-POO-6-Classe-Object.pdb
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\Exemplo-POO-6-Classe-Object.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\Exemplo-POO-6-Classe-Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\Exemplo-POO-6-Classe-Object.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\Exemplo-POO-6-Classe-Object.AssemblyInfo.cs
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\Exemplo-POO-6-Classe-Object.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\Exemplo-POO-6-Classe-Object.dll
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\ref\Exemplo-POO-6-Classe-Object.dll
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\Exemplo-POO-6-Classe-Object.pdb
+C:\Workspace\Exemplo-POO-6-Classe-Object\obj\Debug\net6.0\Exemplo-POO-6-Classe-Object.genruntimeconfig.cache

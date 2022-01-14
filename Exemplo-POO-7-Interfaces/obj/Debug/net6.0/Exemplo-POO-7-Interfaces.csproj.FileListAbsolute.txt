@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\Exemplo-POO-7-Interfaces.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\Exemplo-POO-7-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\Exemplo-POO-7-Interfaces.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\Exemplo-POO-7-Interfaces.AssemblyInfo.cs
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\Exemplo-POO-7-Interfaces.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-POO-7-Interfaces\bin\Debug\net6.0\Exemplo-POO-7-Interfaces.exe
+C:\Workspace\Exemplo-POO-7-Interfaces\bin\Debug\net6.0\Exemplo-POO-7-Interfaces.deps.json
+C:\Workspace\Exemplo-POO-7-Interfaces\bin\Debug\net6.0\Exemplo-POO-7-Interfaces.runtimeconfig.json
+C:\Workspace\Exemplo-POO-7-Interfaces\bin\Debug\net6.0\Exemplo-POO-7-Interfaces.dll
+C:\Workspace\Exemplo-POO-7-Interfaces\bin\Debug\net6.0\ref\Exemplo-POO-7-Interfaces.dll
+C:\Workspace\Exemplo-POO-7-Interfaces\bin\Debug\net6.0\Exemplo-POO-7-Interfaces.pdb
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\Exemplo-POO-7-Interfaces.dll
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\ref\Exemplo-POO-7-Interfaces.dll
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\Exemplo-POO-7-Interfaces.pdb
+C:\Workspace\Exemplo-POO-7-Interfaces\obj\Debug\net6.0\Exemplo-POO-7-Interfaces.genruntimeconfig.cache

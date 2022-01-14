@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\Exemplo-POO-3-Heranca.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\Exemplo-POO-3-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\Exemplo-POO-3-Heranca.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\Exemplo-POO-3-Heranca.AssemblyInfo.cs
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\Exemplo-POO-3-Heranca.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-POO-3-Heranca\bin\Debug\net6.0\Exemplo-POO-3-Heranca.exe
+C:\Workspace\Exemplo-POO-3-Heranca\bin\Debug\net6.0\Exemplo-POO-3-Heranca.deps.json
+C:\Workspace\Exemplo-POO-3-Heranca\bin\Debug\net6.0\Exemplo-POO-3-Heranca.runtimeconfig.json
+C:\Workspace\Exemplo-POO-3-Heranca\bin\Debug\net6.0\Exemplo-POO-3-Heranca.dll
+C:\Workspace\Exemplo-POO-3-Heranca\bin\Debug\net6.0\ref\Exemplo-POO-3-Heranca.dll
+C:\Workspace\Exemplo-POO-3-Heranca\bin\Debug\net6.0\Exemplo-POO-3-Heranca.pdb
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\Exemplo-POO-3-Heranca.dll
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\ref\Exemplo-POO-3-Heranca.dll
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\Exemplo-POO-3-Heranca.pdb
+C:\Workspace\Exemplo-POO-3-Heranca\obj\Debug\net6.0\Exemplo-POO-3-Heranca.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Manipular-Arquivos\bin\Debug\net6.0\Exemplo-Manipular-Arquivos.exe
+C:\Workspace\Exemplo-Manipular-Arquivos\bin\Debug\net6.0\Exemplo-Manipular-Arquivos.deps.json
+C:\Workspace\Exemplo-Manipular-Arquivos\bin\Debug\net6.0\Exemplo-Manipular-Arquivos.runtimeconfig.json
+C:\Workspace\Exemplo-Manipular-Arquivos\bin\Debug\net6.0\Exemplo-Manipular-Arquivos.dll
+C:\Workspace\Exemplo-Manipular-Arquivos\bin\Debug\net6.0\ref\Exemplo-Manipular-Arquivos.dll
+C:\Workspace\Exemplo-Manipular-Arquivos\bin\Debug\net6.0\Exemplo-Manipular-Arquivos.pdb
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\Exemplo-Manipular-Arquivos.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\Exemplo-Manipular-Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\Exemplo-Manipular-Arquivos.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\Exemplo-Manipular-Arquivos.AssemblyInfo.cs
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\Exemplo-Manipular-Arquivos.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\Exemplo-Manipular-Arquivos.dll
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\ref\Exemplo-Manipular-Arquivos.dll
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\Exemplo-Manipular-Arquivos.pdb
+C:\Workspace\Exemplo-Manipular-Arquivos\obj\Debug\net6.0\Exemplo-Manipular-Arquivos.genruntimeconfig.cache

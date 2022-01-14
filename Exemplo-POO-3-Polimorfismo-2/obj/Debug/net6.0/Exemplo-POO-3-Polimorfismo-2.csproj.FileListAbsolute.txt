@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\bin\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.exe
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\bin\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.deps.json
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\bin\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.runtimeconfig.json
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\bin\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.dll
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\bin\Debug\net6.0\ref\Exemplo-POO-3-Polimorfismo-2.dll
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\bin\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.pdb
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.AssemblyInfo.cs
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.dll
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\ref\Exemplo-POO-3-Polimorfismo-2.dll
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.pdb
+C:\Workspace\Exemplo-POO-3-Polimorfismo-2\obj\Debug\net6.0\Exemplo-POO-3-Polimorfismo-2.genruntimeconfig.cache
