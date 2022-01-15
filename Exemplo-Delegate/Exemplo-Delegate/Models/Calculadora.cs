@@ -8,7 +8,7 @@ namespace Exemplo_Delegate.Models
         }
         public static void Subtrair(int x, int y)
         {
-            Console.WriteLine($"Subtração: {x} + {y} = {x - y}");
+            Console.WriteLine($"Subtração: {x} - {y} = {x - y}");
         }
     }
 }
