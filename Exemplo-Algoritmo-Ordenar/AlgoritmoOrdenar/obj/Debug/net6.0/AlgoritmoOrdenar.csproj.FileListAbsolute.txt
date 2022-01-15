@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\bin\Debug\net6.0\AlgoritmoOrdenar.exe
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\bin\Debug\net6.0\AlgoritmoOrdenar.deps.json
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\bin\Debug\net6.0\AlgoritmoOrdenar.runtimeconfig.json
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\bin\Debug\net6.0\AlgoritmoOrdenar.dll
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\bin\Debug\net6.0\ref\AlgoritmoOrdenar.dll
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\bin\Debug\net6.0\AlgoritmoOrdenar.pdb
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\AlgoritmoOrdenar.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\AlgoritmoOrdenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\AlgoritmoOrdenar.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\AlgoritmoOrdenar.AssemblyInfo.cs
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\AlgoritmoOrdenar.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\AlgoritmoOrdenar.dll
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\ref\AlgoritmoOrdenar.dll
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\AlgoritmoOrdenar.pdb
+C:\Workspace\Exemplo-Algoritmo-Ordenar\AlgoritmoOrdenar\obj\Debug\net6.0\AlgoritmoOrdenar.genruntimeconfig.cache
