@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\bin\Debug\net6.0\Exemplo-Delegate.exe
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\bin\Debug\net6.0\Exemplo-Delegate.deps.json
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\bin\Debug\net6.0\Exemplo-Delegate.runtimeconfig.json
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\bin\Debug\net6.0\Exemplo-Delegate.dll
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\bin\Debug\net6.0\ref\Exemplo-Delegate.dll
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\bin\Debug\net6.0\Exemplo-Delegate.pdb
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\Exemplo-Delegate.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\Exemplo-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\Exemplo-Delegate.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\Exemplo-Delegate.AssemblyInfo.cs
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\Exemplo-Delegate.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\Exemplo-Delegate.dll
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\ref\Exemplo-Delegate.dll
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\Exemplo-Delegate.pdb
+C:\Workspace\Exemplo-Delegate\Exemplo-Delegate\obj\Debug\net6.0\Exemplo-Delegate.genruntimeconfig.cache
