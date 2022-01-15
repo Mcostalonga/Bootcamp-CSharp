@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.exe
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.deps.json
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.runtimeconfig.json
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.dll
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\bin\Debug\net6.0\ref\Dicionarios.dll
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\bin\Debug\net6.0\Dicionarios.pdb
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.AssemblyInfo.cs
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.dll
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\ref\Dicionarios.dll
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.pdb
+C:\Workspace\Exemplo-Dicionarios\Dicionarios\obj\Debug\net6.0\Dicionarios.genruntimeconfig.cache
