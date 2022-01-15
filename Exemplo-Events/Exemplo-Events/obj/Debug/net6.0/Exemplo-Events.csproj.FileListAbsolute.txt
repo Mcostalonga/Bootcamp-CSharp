@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Events\Exemplo-Events\bin\Debug\net6.0\Exemplo-Events.exe
+C:\Workspace\Exemplo-Events\Exemplo-Events\bin\Debug\net6.0\Exemplo-Events.deps.json
+C:\Workspace\Exemplo-Events\Exemplo-Events\bin\Debug\net6.0\Exemplo-Events.runtimeconfig.json
+C:\Workspace\Exemplo-Events\Exemplo-Events\bin\Debug\net6.0\Exemplo-Events.dll
+C:\Workspace\Exemplo-Events\Exemplo-Events\bin\Debug\net6.0\ref\Exemplo-Events.dll
+C:\Workspace\Exemplo-Events\Exemplo-Events\bin\Debug\net6.0\Exemplo-Events.pdb
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\Exemplo-Events.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\Exemplo-Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\Exemplo-Events.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\Exemplo-Events.AssemblyInfo.cs
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\Exemplo-Events.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\Exemplo-Events.dll
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\ref\Exemplo-Events.dll
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\Exemplo-Events.pdb
+C:\Workspace\Exemplo-Events\Exemplo-Events\obj\Debug\net6.0\Exemplo-Events.genruntimeconfig.cache
