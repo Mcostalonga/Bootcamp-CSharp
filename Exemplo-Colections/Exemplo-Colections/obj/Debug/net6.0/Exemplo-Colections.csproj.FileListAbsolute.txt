@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\bin\Debug\net6.0\Exemplo-Colections.exe
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\bin\Debug\net6.0\Exemplo-Colections.deps.json
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\bin\Debug\net6.0\Exemplo-Colections.runtimeconfig.json
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\bin\Debug\net6.0\Exemplo-Colections.dll
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\bin\Debug\net6.0\ref\Exemplo-Colections.dll
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\bin\Debug\net6.0\Exemplo-Colections.pdb
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\Exemplo-Colections.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\Exemplo-Colections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\Exemplo-Colections.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\Exemplo-Colections.AssemblyInfo.cs
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\Exemplo-Colections.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\Exemplo-Colections.dll
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\ref\Exemplo-Colections.dll
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\Exemplo-Colections.pdb
+C:\Workspace\Exemplo-Colections\Exemplo-Colections\obj\Debug\net6.0\Exemplo-Colections.genruntimeconfig.cache
