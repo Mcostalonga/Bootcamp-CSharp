@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\bin\Debug\net6.0\Exemplo-Readonly-Constant.exe
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\bin\Debug\net6.0\Exemplo-Readonly-Constant.deps.json
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\bin\Debug\net6.0\Exemplo-Readonly-Constant.runtimeconfig.json
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\bin\Debug\net6.0\Exemplo-Readonly-Constant.dll
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\bin\Debug\net6.0\ref\Exemplo-Readonly-Constant.dll
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\bin\Debug\net6.0\Exemplo-Readonly-Constant.pdb
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\Exemplo-Readonly-Constant.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\Exemplo-Readonly-Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\Exemplo-Readonly-Constant.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\Exemplo-Readonly-Constant.AssemblyInfo.cs
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\Exemplo-Readonly-Constant.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\Exemplo-Readonly-Constant.dll
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\ref\Exemplo-Readonly-Constant.dll
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\Exemplo-Readonly-Constant.pdb
+C:\Workspace\Exemplo-Readonly-Constant\Exemplo-Readonly-Constant\obj\Debug\net6.0\Exemplo-Readonly-Constant.genruntimeconfig.cache
