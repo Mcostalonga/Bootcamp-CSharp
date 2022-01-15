@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exemplo-Get-Set/1.0.0": {
+        "runtime": {
+          "Exemplo-Get-Set.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo-Get-Set/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

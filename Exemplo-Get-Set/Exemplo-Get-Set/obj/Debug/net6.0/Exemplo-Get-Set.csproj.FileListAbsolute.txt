@@ -1,0 +1,15 @@
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\bin\Debug\net6.0\Exemplo-Get-Set.exe
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\bin\Debug\net6.0\Exemplo-Get-Set.deps.json
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\bin\Debug\net6.0\Exemplo-Get-Set.runtimeconfig.json
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\bin\Debug\net6.0\Exemplo-Get-Set.dll
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\bin\Debug\net6.0\ref\Exemplo-Get-Set.dll
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\bin\Debug\net6.0\Exemplo-Get-Set.pdb
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\Exemplo-Get-Set.csproj.AssemblyReference.cache
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\Exemplo-Get-Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\Exemplo-Get-Set.AssemblyInfoInputs.cache
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\Exemplo-Get-Set.AssemblyInfo.cs
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\Exemplo-Get-Set.csproj.CoreCompileInputs.cache
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\Exemplo-Get-Set.dll
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\ref\Exemplo-Get-Set.dll
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\Exemplo-Get-Set.pdb
+C:\Workspace\Exemplo-Get-Set\Exemplo-Get-Set\obj\Debug\net6.0\Exemplo-Get-Set.genruntimeconfig.cache
