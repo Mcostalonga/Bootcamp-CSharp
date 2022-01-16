@@ -1,0 +1,15 @@
+C:\Workspace\Desafios\Desafio03\Desafio03\bin\Debug\net6.0\Desafio03.exe
+C:\Workspace\Desafios\Desafio03\Desafio03\bin\Debug\net6.0\Desafio03.deps.json
+C:\Workspace\Desafios\Desafio03\Desafio03\bin\Debug\net6.0\Desafio03.runtimeconfig.json
+C:\Workspace\Desafios\Desafio03\Desafio03\bin\Debug\net6.0\Desafio03.dll
+C:\Workspace\Desafios\Desafio03\Desafio03\bin\Debug\net6.0\ref\Desafio03.dll
+C:\Workspace\Desafios\Desafio03\Desafio03\bin\Debug\net6.0\Desafio03.pdb
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\Desafio03.csproj.AssemblyReference.cache
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\Desafio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\Desafio03.AssemblyInfoInputs.cache
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\Desafio03.AssemblyInfo.cs
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\Desafio03.csproj.CoreCompileInputs.cache
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\Desafio03.dll
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\ref\Desafio03.dll
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\Desafio03.pdb
+C:\Workspace\Desafios\Desafio03\Desafio03\obj\Debug\net6.0\Desafio03.genruntimeconfig.cache
