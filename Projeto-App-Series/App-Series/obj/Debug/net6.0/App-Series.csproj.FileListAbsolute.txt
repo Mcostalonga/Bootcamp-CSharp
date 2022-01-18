@@ -1,0 +1,15 @@
+C:\Workspace\Projeto-App-Series\App-Series\bin\Debug\net6.0\App-Series.exe
+C:\Workspace\Projeto-App-Series\App-Series\bin\Debug\net6.0\App-Series.deps.json
+C:\Workspace\Projeto-App-Series\App-Series\bin\Debug\net6.0\App-Series.runtimeconfig.json
+C:\Workspace\Projeto-App-Series\App-Series\bin\Debug\net6.0\App-Series.dll
+C:\Workspace\Projeto-App-Series\App-Series\bin\Debug\net6.0\ref\App-Series.dll
+C:\Workspace\Projeto-App-Series\App-Series\bin\Debug\net6.0\App-Series.pdb
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\App-Series.csproj.AssemblyReference.cache
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\App-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\App-Series.AssemblyInfoInputs.cache
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\App-Series.AssemblyInfo.cs
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\App-Series.csproj.CoreCompileInputs.cache
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\App-Series.dll
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\ref\App-Series.dll
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\App-Series.pdb
+C:\Workspace\Projeto-App-Series\App-Series\obj\Debug\net6.0\App-Series.genruntimeconfig.cache
